@@ -1,5 +1,5 @@
 # Growtopia-Autosurg
-⚡ Works in Growtopia V4.63 ⚡
+⚡ Works in Growtopia V4.64 ⚡
 
 ## How to Download and Install
 Download the file from the main branch (Gafu Autosurg V3)
@@ -33,5 +33,5 @@ step 6️⃣ --> Your surgery will automatically complete!
 
 Enjoy effortless surgeries!
 
-// 07.08.24
-⚡ Updated for Growtopia V4.63 ⚡
+// 24.08.24
+⚡ Updated for Growtopia V4.64 ⚡
